@@ -1,1 +1,1 @@
-# ai-journey
+✅ Learning GitHub & AI Notes (in progress)
